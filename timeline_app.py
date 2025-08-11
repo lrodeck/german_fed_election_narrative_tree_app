@@ -4,7 +4,6 @@ from streamlit_timeline import timeline
 import pandas as pd
 from streamlit_agraph import agraph, Node, Edge, Config
 import streamlit.components.v1 as components
-import streamlit_scrollable_textbox as stx
 
 # Load and preprocess data
 df = pd.read_csv('Events-BTW.csv')
@@ -256,3 +255,4 @@ with col2:
     st.write("This section breaks down the core plot of each narrative (Crisis, Cause, Conflict, Resolution).")
     with st.container(border=True, height=850):
         create_emplotment_display(narrative_data, selected_party, selected_theme)
+
