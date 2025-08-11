@@ -174,6 +174,10 @@ st.markdown("""
 h4 {
     margin-bottom: 0.5rem;
 }
+.stMainBlockContainer {
+        min-width: 1200px;
+        max-width: 2600px;
+    }
 </style>
 """, unsafe_allow_html=True)
 st.title("🇩🇪 2025 German Election: A Narrative Analysis")
@@ -255,4 +259,5 @@ with col2:
     st.write("This section breaks down the core plot of each narrative (Crisis, Cause, Conflict, Resolution).")
     with st.container(border=True, height=850):
         create_emplotment_display(narrative_data, selected_party, selected_theme)
+
 
