@@ -7,7 +7,7 @@
             "themes": {
                 "economy": {
                     "label": "Economy & Debt Brake",
-                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}, {"name": "Illegal Migrants / Criminal Foreigners", "role": "Antagonist"}, {"name": "Bureaucracy / Red Tape", "role": "Antagonist"}],
+                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}, {"name": "Bureaucracy / Red Tape", "role": "Antagonist"}],
                     "emplotment": {
                         "Events Included": "The CDU/CSU narrative relentlessly focused on the perceived failures of the Scholz government. This included constant references to the public infighting, legislative gridlock, and eventual collapse of the 'traffic light' coalition, which was presented as prima facie evidence of incompetence. Economic data showing Germany's stagnation and recession were used to underscore the government's mismanagement of the economy.",
                         "Events Excluded": "Conspicuously absent from the CDU/CSU's narrative was any reflection on its own 16-year tenure under Chancellor Angela Merkel. This strategic amnesia allowed the party to sidestep responsibility for policies that laid the groundwork for current crises, such as the deepening of Germany's energy dependence on Russia.",
@@ -20,7 +20,7 @@
                 },
                 "migration": {
                     "label": "Migration & Internal Security",
-                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}],
+                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}, {"name": "Illegal Migrants / Criminal Foreigners", "role": "Antagonist"}],
                     "emplotment": {
                         "Events Included": "The CDU/CSU narrative relentlessly highlighted high-profile crimes committed by migrants, linking them directly to the government's 'failed' migration and integration policies. A key included event was Friedrich Merz's controversial decision in January 2025 to pass a migration resolution with AfD support, signaling a hardline stance.",
                         "Events Excluded": "The narrative excluded any reflection on the consequences of the CDU's own migration policies of 2015.",
@@ -247,3 +247,4 @@
         }
     }
 }
+
