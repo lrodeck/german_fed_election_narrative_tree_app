@@ -175,8 +175,8 @@ h4 {
     margin-bottom: 0.5rem;
 }
 .stMainBlockContainer {
-        min-width: 1200px;
-        max-width: 2600px;
+        min-width: 1200px !important;;
+        max-width: 2600px !important;;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -259,5 +259,6 @@ with col2:
     st.write("This section breaks down the core plot of each narrative (Crisis, Cause, Conflict, Resolution).")
     with st.container(border=True, height=850):
         create_emplotment_display(narrative_data, selected_party, selected_theme)
+
 
 
