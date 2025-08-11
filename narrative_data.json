@@ -1,0 +1,249 @@
+{
+    "election_title": "2025 German Federal Election",
+    "parties": {
+        "cdu": {
+            "label": "CDU/CSU",
+            "color": "#000000",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}, {"name": "Illegal Migrants / Criminal Foreigners", "role": "Antagonist"}, {"name": "Bureaucracy / Red Tape", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The CDU/CSU narrative relentlessly focused on the perceived failures of the Scholz government. This included constant references to the public infighting, legislative gridlock, and eventual collapse of the 'traffic light' coalition, which was presented as prima facie evidence of incompetence. Economic data showing Germany's stagnation and recession were used to underscore the government's mismanagement of the economy.",
+                        "Events Excluded": "Conspicuously absent from the CDU/CSU's narrative was any reflection on its own 16-year tenure under Chancellor Angela Merkel. This strategic amnesia allowed the party to sidestep responsibility for policies that laid the groundwork for current crises, such as the deepening of Germany's energy dependence on Russia.",
+                        "Sequence and Temporality": "The narrative constructed a clear temporal sequence: a long, stable past under conservative leadership was abruptly interrupted by a short, disastrous period of 'traffic light' rule from 2021 to 2024. This framing presents an immediate, acute crisis that requires urgent reversal.",
+                        "Crisis": "A crisis of competitiveness due to bureaucracy, high energy costs, and reckless spending.",
+                        "Cause": "The 'ideologically-driven, amateurish, and constantly fighting' Scholz government.",
+                        "Conflict": "Competence and common-sense governance vs. irresponsible ideological experimentation.",
+                        "Resolution": "Restore fiscal discipline, uphold the debt brake, cut taxes, and slash bureaucracy."
+                    }
+                },
+                "migration": {
+                    "label": "Migration & Internal Security",
+                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "'Traffic Light' Coalition", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The CDU/CSU narrative relentlessly highlighted high-profile crimes committed by migrants, linking them directly to the government's 'failed' migration and integration policies. A key included event was Friedrich Merz's controversial decision in January 2025 to pass a migration resolution with AfD support, signaling a hardline stance.",
+                        "Events Excluded": "The narrative excluded any reflection on the consequences of the CDU's own migration policies of 2015.",
+                        "Sequence and Temporality": "The narrative constructed an immediate, acute crisis of security that has developed rapidly and requires urgent reversal.",
+                        "Crisis": "A crisis of control and a breakdown of internal security caused by uncontrolled 'illegal migration.'",
+                        "Cause": "The 'traffic light' coalition's lax enforcement and failed integration policies.",
+                        "Conflict": "A choice between order and security vs. a dangerous and naive openness.",
+                        "Resolution": "A 'zero-tolerance' policy on crime, strict border controls, and accelerated deportations."
+                    }
+                },
+                "foreign_policy": {
+                    "label": "Ukraine, Foreign Policy, and European Security",
+                    "characters": [{"name": "CDU/CSU & Friedrich Merz", "role": "Protagonist"}, {"name": "European Union", "role": "Ally/Helper"}, {"name": "Russia", "role": "Antagonist"}, {"name": "USA (Trump Admin)", "role": "Neutral"}],
+                    "emplotment": {
+                        "Events Included": "The narrative focused on the perceived weakness and unreliability of the Scholz government on the international stage, contrasting it with a promise of strong, decisive leadership.",
+                        "Events Excluded": "The narrative excluded any reflection on its own past policies, such as the deepening of energy dependence on Russia under Chancellor Merkel.",
+                        "Sequence and Temporality": "The narrative presents an immediate, acute crisis in European security that has been exacerbated by the weak leadership of the 'traffic light' government.",
+                        "Crisis": "A crisis of European security caused by Russian aggression and American unreliability.",
+                        "Cause": "The 'traffic light' coalition's indecisive and erratic foreign policy.",
+                        "Conflict": "Strong, decisive leadership vs. the perceived weakness of the Scholz government.",
+                        "Resolution": "Strengthen the Bundeswehr, increase defense spending, and lead a more assertive EU."
+                    }
+                }
+            }
+        },
+        "spd": {
+            "label": "SPD",
+            "color": "#E3000F",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "SPD & Olaf Scholz", "role": "Protagonist"}, {"name": "Workers, Families, Pensioners", "role": "Victim"}, {"name": "FDP & Christian Lindner", "role": "Antagonist"}, {"name": "CDU/CSU", "role": "Antagonist"}, {"name": "The 'Germany Fund'", "role": "Ally/Helper"}],
+                    "emplotment": {
+                        "Events Included": "The SPD's narrative selectively highlighted its social policy achievements, such as the minimum wage increase and the Bürgergeld citizen's benefit system.",
+                        "Events Excluded": "The narrative downplayed the government's deep unpopularity, which predated the final coalition crisis.",
+                        "Sequence and Temporality": "The SPD depicted its time in government (2021-2024) as a steady, gradual path of social progress, which was abruptly and maliciously derailed by the FDP's exit in late 2024.",
+                        "Crisis": "A crisis of underinvestment and an attack on the German social model from neoliberal austerity.",
+                        "Cause": "The ideological rigidity and 'small-minded party tactics' of the FDP.",
+                        "Conflict": "A struggle between social solidarity and market-driven selfishness.",
+                        "Resolution": "Expand the welfare state, raise taxes on corporations, and reform the debt brake via a 'Germany Fund'."
+                    }
+                },
+                "migration": {
+                    "label": "Migration & Internal Security",
+                    "characters": [{"name": "SPD & Olaf Scholz", "role": "Protagonist"}, {"name": "Skilled Workers", "role": "Ally/Helper"}, {"name": "The Far-Right (AfD)", "role": "Antagonist"}],
+                     "emplotment": {
+                        "Events Included": "The SPD's narrative on migration was largely reactive, acknowledging security concerns while also highlighting the need for skilled labor.",
+                        "Events Excluded": "The narrative avoided a deep dive into the specific policy failures that may have contributed to public anxiety, focusing instead on condemning the right's exploitation of the issue.",
+                        "Sequence and Temporality": "The narrative framed migration-related crime as a series of individual events, rather than a systemic crisis, which were then amplified into a crisis by political opponents.",
+                        "Crisis": "A challenge of management, not an existential crisis. Public security concerns are acknowledged.",
+                        "Cause": "Specific criminal acts are being exploited and generalized by the far-right to stir up anti-immigrant sentiment.",
+                        "Conflict": "Responsible, balanced management vs. the dangerous, divisive fear-mongering of the right.",
+                        "Resolution": "Stricter enforcement and faster deportations for criminals, combined with better integration measures."
+                    }
+                },
+                "foreign_policy": {
+                    "label": "Ukraine, Foreign Policy, and European Security",
+                    "characters": [{"name": "SPD & Olaf Scholz", "role": "Protagonist"}, {"name": "Ukraine", "role": "Victim"}, {"name": "Russia", "role": "Antagonist"}],
+                     "emplotment": {
+                        "Events Included": "The SPD emphasized its commitment to international responsibility, particularly its continued financial and military support for Ukraine, framing this as a core part of its governing record.",
+                        "Events Excluded": "The narrative downplayed internal party divisions on the extent of military support for Ukraine and Chancellor Scholz's perceived hesitancy in the early stages of the war.",
+                        "Sequence and Temporality": "The narrative presents a consistent, ongoing commitment to supporting Ukraine since the beginning of the full-scale invasion.",
+                        "Crisis": "A war of aggression against Ukraine caused by Russian imperialism, threatening the European peace order.",
+                        "Cause": "The unprovoked and illegal invasion of Ukraine by Vladimir Putin's Russia.",
+                        "Conflict": "A struggle between international law and democratic values versus authoritarian aggression.",
+                        "Resolution": "Continued military and financial support for Ukraine, while pursuing all available diplomatic channels."
+                    }
+                }
+            }
+        },
+        "greens": {
+            "label": "Greens",
+            "color": "#64A12D",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "The Greens", "role": "Protagonist"}, {"name": "Future Generations / The Planet", "role": "Victim"}, {"name": "'Reactionary Bloc' (FDP, CDU, AfD)", "role": "Antagonist"}, {"name": "Fossil Fuel Lobbies", "role": "Antagonist"}, {"name": "European Union", "role": "Ally/Helper"}],
+                    "emplotment": {
+                        "Events Included": "The Greens' narrative consistently emphasized the urgency of the climate crisis and highlighted their policy successes within the coalition, such as accelerating the expansion of renewable energy.",
+                        "Events Excluded": "The narrative largely avoided discussing the public backlash against some of its key policies, like the 'heating law,' which contributed to the government's unpopularity.",
+                        "Sequence and Temporality": "The narrative operates on a long-term timescale, framing the existential climate crisis as the central event. The 'traffic light' coalition was a brief window of opportunity to enact necessary change, an opportunity squandered due to reactionary resistance.",
+                        "Crisis": "A crisis of sustainability and modernization; an outdated economic model is blocking green investment.",
+                        "Cause": "The combined obstructionism of 'reactionary forces' (FDP, CDU/CSU, AfD) prioritizing short-term profits.",
+                        "Conflict": "A fundamental battle between Progress (a sustainable future) and Stagnation (defense of the status quo).",
+                        "Resolution": "A massive public and private investment push into green technologies, funded by debt reform."
+                    }
+                },
+                "migration": {
+                    "label": "Migration & Internal Security",
+                    "characters": [{"name": "The Greens", "role": "Protagonist"}, {"name": "Refugees / Asylum Seekers", "role": "Victim"}, {"name": "The Right-Wing (CDU, AfD)", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The Greens' narrative consistently framed migration as a humanitarian issue, stressing Germany's commitment to human rights and international law.",
+                        "Events Excluded": "The narrative downplayed public security concerns and the challenges faced by municipalities in accommodating large numbers of refugees.",
+                        "Sequence and Temporality": "The narrative operates on a long-term timescale of moral and legal obligation, framing the current situation as an ongoing humanitarian responsibility rather than a short-term security crisis.",
+                        "Crisis": "A humanitarian crisis of human rights at Europe's borders, not a crisis of internal security in Germany.",
+                        "Cause": "War, persecution, and poverty in other parts of the world, and a lack of a coordinated, humane European response.",
+                        "Conflict": "A battle between humanitarian values and a rising tide of nationalism and xenophobia.",
+                        "Resolution": "Upholding asylum rights, promoting legal pathways for migration, and fostering a welcoming culture."
+                    }
+                },
+                "foreign_policy": {
+                    "label": "Ukraine, Foreign Policy, and European Security",
+                    "characters": [{"name": "The Greens", "role": "Protagonist"}, {"name": "Ukraine", "role": "Victim"}, {"name": "Russia", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The Greens' narrative stressed a strong, values-based foreign policy, highlighting their commitment to a federally integrated European Union as the only viable response to global challenges.",
+                        "Events Excluded": "The narrative avoided discussing the potential economic trade-offs of a hardline stance against authoritarian regimes.",
+                        "Sequence and Temporality": "The narrative frames the current geopolitical situation as a long-term, systemic struggle between democracy and authoritarianism.",
+                        "Crisis": "An attack on international law and democratic values, caused by Russian authoritarianism.",
+                        "Cause": "The imperialist ambitions of Vladimir Putin's regime.",
+                        "Conflict": "A global conflict between democratic, open societies and authoritarian, aggressive states.",
+                        "Resolution": "Strong, unwavering support for Ukraine and a deepening of European integration."
+                    }
+                }
+            }
+        },
+        "fdp": {
+            "label": "FDP",
+            "color": "#FFED00",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "FDP & Christian Lindner", "role": "Protagonist"}, {"name": "The Taxpayer / Small Business Owners", "role": "Victim"}, {"name": "SPD & Greens", "role": "Antagonist"}, {"name": "The Debt Brake", "role": "Ally/Helper"}],
+                    "emplotment": {
+                        "Events Included": "The FDP's messaging was laser-focused on fiscal policy, centering on the budget deficit and the sanctity of the debt brake. The moment of Christian Lindner's dismissal was framed as the culmination of the FDP's principled refusal to compromise.",
+                        "Events Excluded": "The most glaring omission was any mention of the 'D-Day paper,' which suggested the coalition's collapse was a premeditated strategy, not a principled stand.",
+                        "Sequence and Temporality": "The FDP's story of its time in government (2021-2024) was one of a partnership where one partner (the FDP) consistently tried to uphold the rules while the other partners (SPD and Greens) constantly sought to break them, leading to an inevitable break-up.",
+                        "Crisis": "A purely economic crisis: Germany's economy is being suffocated by high taxes, bureaucracy, and the threat of runaway public debt.",
+                        "Cause": "The ideological refusal of the SPD and Greens to embrace market-based solutions.",
+                        "Conflict": "A battle between economic reason (FDP) versus socialist ideology and fiscal recklessness (SPD and Greens).",
+                        "Resolution": "A 'Wirtschaftswende' (economic turnaround) with tax cuts, deregulation, and unwavering adherence to the debt brake."
+                    }
+                }
+            }
+        },
+        "afd": {
+            "label": "AfD",
+            "color": "#009EE0",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "AfD & Alice Weidel", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "The 'Establishment'", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The AfD's narrative amplified economic hardships like high energy prices and inflation, blaming them on 'ideological' green policies and costly aid to Ukraine.",
+                        "Events Excluded": "The party systematically omitted the role of Russia's war in causing the energy crisis and the positive economic contributions of immigrants.",
+                        "Sequence and Temporality": "The narrative is one of rapid, accelerating decline toward an imminent collapse, requiring extreme urgency.",
+                        "Crisis": "A crisis of sovereignty and economic decline; the nation's wealth is being squandered by a corrupt elite.",
+                        "Cause": "The treacherous policies of the 'Altparteien' (old parties), who serve 'globalist' interests.",
+                        "Conflict": "A struggle between 'The People' (represented by the AfD) and 'The Elites' (a corrupt establishment).",
+                        "Resolution": "A radical program of national restoration, including 'Dexit' and ending all climate policies."
+                    }
+                },
+                "migration": {
+                    "label": "Migration & Internal Security",
+                    "characters": [{"name": "AfD & Alice Weidel", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "Immigrants", "role": "Antagonist"}, {"name": "EU Bureaucrats / 'Globalists'", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The AfD's narrative was a curated collage of crises. It amplified every reported crime committed by a migrant, using these incidents as anecdotal proof of a society-wide breakdown of law and order. Statistics on asylum applications were presented as evidence of an uncontrolled 'invasion'.",
+                        "Events Excluded": "The narrative systematically omitted any information that contradicted its crisis framing, such as the positive economic contributions of immigrants or Germany's legal and humanitarian obligations under international law.",
+                        "Sequence and Temporality": "The narrative is one of rapid, accelerating decline toward an imminent collapse. The 2015 refugee crisis is consistently invoked as the point of origin for the current disaster.",
+                        "Crisis": "An existential threat to the German nation itself, a 'population replacement' (*Umvolkung*).",
+                        "Cause": "The deliberate and treacherous policies of the 'Altparteien' (old parties).",
+                        "Conflict": "An irreconcilable struggle between 'The People' and 'The Elites'.",
+                        "Resolution": "Securing the borders ('Fortress Europe') and implementing mass deportations ('remigration')."
+                    }
+                },
+                "foreign_policy": {
+                    "label": "Ukraine, Foreign Policy, and European Security",
+                    "characters": [{"name": "AfD & Alice Weidel", "role": "Protagonist"}, {"name": "The German People", "role": "Victim"}, {"name": "USA / NATO", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "The narrative consistently portrayed the war in Ukraine as a conflict that did not serve German interests, focusing on the economic costs of sanctions and military aid.",
+                        "Events Excluded": "The narrative excluded Russia's role as the aggressor and any discussion of the security implications for Germany of a Russian victory.",
+                        "Sequence and Temporality": "The narrative presents the war as an ongoing, costly mistake that must be ended immediately.",
+                        "Crisis": "An American proxy war, not a German one. The crisis is the economic damage to Germany from sanctions and aid.",
+                        "Cause": "NATO expansion and the pursuit of 'globalist' interests at Germany's expense.",
+                        "Conflict": "German national interests (peace, stability) vs. the foreign policy agenda of the US and EU establishment.",
+                        "Resolution": "End weapons deliveries to Ukraine, lift sanctions on Russia, and pursue neutrality."
+                    }
+                }
+            }
+        },
+        "linke": {
+            "label": "Die Linke",
+            "color": "#BE3075",
+            "themes": {
+                "economy": {
+                    "label": "Economy & Debt Brake",
+                    "characters": [{"name": "Die Linke", "role": "Protagonist"}, {"name": "The Working Class, Tenants, The Poor", "role": "Victim"}, {"name": "The Wealthy Elite / Corporations", "role": "Antagonist"}, {"name": "The Political Establishment", "role": "Antagonist"}, {"name": "The AfD", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "Die Linke's messaging focused squarely on the tangible economic pressures facing working-class households, highlighting rising rents, soaring prices, and record corporate profits.",
+                        "Events Excluded": "The party strategically omitted its own recent history of debilitating internal factional fights and the split with the BSW party.",
+                        "Sequence and Temporality": "The narrative presented a long-term, ongoing class war that has recently intensified into an immediate crisis of affordability, requiring radical and immediate intervention.",
+                        "Crisis": "A profound social crisis of poverty and inequality where working people cannot afford basic necessities.",
+                        "Cause": "The fundamental logic of the capitalist system, enabled by a compliant political establishment.",
+                        "Conflict": "An explicit conflict of 'us down here versus them up there'.",
+                        "Resolution": "Radical redistributive policies, including a national rent cap, wealth tax, and abolition of VAT on basic foodstuffs."
+                    }
+                },
+                "migration": {
+                    "label": "Migration & Internal Security",
+                    "characters": [{"name": "Die Linke", "role": "Protagonist"}, {"name": "All Working People", "role": "Victim"}, {"name": "The Right-Wing Establishment", "role": "Antagonist"}],
+                    "emplotment": {
+                        "Events Included": "A key event seized upon by the party was Friedrich Merz's collaboration with the AfD on the January migration vote, which was presented as definitive proof of the entire political establishment's willingness to adopt far-right rhetoric.",
+                        "Events Excluded": "The narrative largely avoided discussing the practical challenges and costs associated with migration, focusing instead on the moral and political dimensions of the debate.",
+                        "Sequence and Temporality": "The narrative frames the migration debate as a recurring tactic in a long-term class war, used by the right whenever it needs to distract from economic inequality.",
+                        "Crisis": "Not a crisis of migration, but a manufactured crisis used by the right to divide the working class.",
+                        "Cause": "The racist instrumentalization of tragic crimes by the political right to stir up anti-immigrant sentiment.",
+                        "Conflict": "Solidarity among all working people vs. the racist, 'divide-and-conquer' tactics of the right.",
+                        "Resolution": "Fight racism, address the root causes of flight, and refocus the political debate on social justice."
+                    }
+                },
+                "foreign_policy": {
+                    "label": "Ukraine, Foreign Policy, and European Security",
+                    "characters": [{"name": "Die Linke", "role": "Protagonist"}, {"name": "NATO", "role": "Antagonist"}, {"name": "The People (German & Russian)", "role": "Victim"}],
+                    "emplotment": {
+                        "Events Included": "The narrative focused on the history of NATO expansion and past diplomatic failures.",
+                        "Events Excluded": "The party's campaign strategically avoided detailed discussions of its more controversial foreign policy positions, which are a significant vulnerability.",
+                        "Sequence and Temporality": "The narrative frames the war as the predictable outcome of a long-term policy of Western military expansionism.",
+                        "Crisis": "A crisis of militarism and a failure of diplomacy.",
+                        "Cause": "The eastward expansion of NATO and the refusal of Western powers to pursue a diplomatic solution with Russia.",
+                        "Conflict": "A struggle between militarism and diplomacy.",
+                        "Resolution": "Cease arms shipments, push for immediate negotiations, and dissolve NATO."
+                    }
+                }
+            }
+        }
+    }
+}
