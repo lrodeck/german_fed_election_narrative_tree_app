@@ -1,0 +1,5 @@
+streamlit
+streamlit-timeline
+pandas
+streamlit-agraph
+streamlit-scrollable-textbox
