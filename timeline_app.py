@@ -239,9 +239,9 @@ for role, color in role_colors.items():
 
 
 
-st.header("Related Event Timeline")
-st.write("This timeline shows key real-world events that influenced the campaign narratives. It filters along with the tree visualization.")
-timeline(timeline_data, height=600)
+# st.header("Related Event Timeline")
+# st.write("This timeline shows key real-world events that influenced the campaign narratives. It filters along with the tree visualization.")
+# timeline(timeline_data, height=600)
 
 
 
@@ -259,6 +259,7 @@ with col2:
     st.write("This section breaks down the core plot of each narrative (Crisis, Cause, Conflict, Resolution).")
     with st.container(border=True, height=850):
         create_emplotment_display(narrative_data, selected_party, selected_theme)
+
 
 
 
