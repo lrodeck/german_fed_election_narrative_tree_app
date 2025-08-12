@@ -191,13 +191,13 @@ The German federal election on February 23, 2025, produced a political earthquak
 """)
 
 
-col_results1, col_results2 = st.columns([1, 1.5])
+#col_results1, col_results2 = st.columns([1, 1.5])
 
-with col_results1:
-    st.dataframe(results_df.style.apply(lambda x: [f'background-color: {x.Color}; color: {"white" if x.Color in ["#000000", "#BE3075", "#800080", "#E3000F"] else "black"}' for i in x], axis=1), hide_index=True)
+#with col_results1:
+st.dataframe(results_df.style.apply(lambda x: [f'background-color: {x.Color}; color: {"white" if x.Color in ["#000000", "#BE3075", "#800080", "#E3000F"] else "black"}' for i in x], axis=1), hide_index=True)
 
-with col_results2:
-    st.bar_chart(results_df, x="Party", y="Percentage", color="Color")
+#with col_results2:
+#    st.bar_chart(results_df, x="Party", y="Percentage", color="Color")
 
 st.info("""
 **A Key Consequence: The Blocking Minority**
@@ -259,6 +259,7 @@ with col2:
     st.write("This section breaks down the core plot of each narrative (Crisis, Cause, Conflict, Resolution).")
     with st.container(border=True, height=850):
         create_emplotment_display(narrative_data, selected_party, selected_theme)
+
 
 
 
